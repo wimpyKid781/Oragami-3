@@ -1,0 +1,32 @@
+.header{
+    background-color: blue;
+}
+.bodyImg{
+    background-color: yellow;
+}
+.grid{
+    display: flex;
+    flex-direction: row;
+}
+.oragami{
+    background-color:red;
+}body{
+    background-color: black;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: blue;
+}
+.oragami p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color : #00ffff;
+    opacity: 1;
+}
+.oragami p:hover{
+    opacity: 1;
+}
